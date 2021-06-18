@@ -6,7 +6,7 @@ E-Commerce Shopping Application
 
 Jenkinsfile
 
-```json
+```shell
 node{
 
     stage('SCM Checkout')
